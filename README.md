@@ -1,7 +1,5 @@
 # :fire: RedLotus Alt Checker - Official Release :fire:
 
-||@everyone||
-
 ### :gear: Key Features
 
 *   **:zap: Universal Account Scanner**
