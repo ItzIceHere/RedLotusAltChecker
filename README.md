@@ -1,7 +1,5 @@
 # :fire: RedLotus Alt Checker
 ### :sparkles: Latest Major Update
-*   **:detective: Persistence 2.0 (Deep Scan)**
-> Completely overhauled detection system. Now features multi-layered, deep persistence checks that are **far harder to bypass**. Detected accounts from **Minecraft** and **Discord** stay visible even after file deletion, preserving a history of previously detected accounts.
 *   **:busts_in_silhouette: Massive Client Support**
 > Added detection for **Lunar, Badlion, Feather, Meteor, Wurst, Aristois, Impact, LabyMod, LiquidBounce, Sigma, Prism, Modrinth, ATLauncher, Technic, SKlauncher, PolyMC, CurseForge, MultiMC**, and more.
 *   **:id: UUID Auto-Resolver**
