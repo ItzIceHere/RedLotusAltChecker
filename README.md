@@ -27,7 +27,7 @@
 *   **:broom: Smart Cleanup:** Automatically filters noise and duplicates, giving you a clean, easy-to-read report sorted by platform.
 
 ### :shield: Privacy & Security
-*   **:lock: 100% Local & Safe:** The tool operates **entirely offline**. No data, logs, or results are ever sent to external servers.
+*   **:lock: Local & Safe:** The tool operates **offline**. No data, logs, or results are ever sent to external servers **with the exception of Mojang API to resolve UUIDs**.
 *   **:briefcase: Ethical Design:** We only extract **public display names**. Sensitive data like passwords, emails, or session tokens are **never** accessed or displayed.
 *   **:handshake: Peace of Mind:** Automated scanning removes the need for manual digging through personal user folders, protecting everyone's privacy.
 
