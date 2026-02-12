@@ -8,7 +8,7 @@
 > Implemented a smart **UUID Resolver**. The tool automatically fetches real usernames from Mojang's API for any UUIDs found in logs or config files.
 > *Note: This means the tool is no longer 100% offline. It connects to Mojang's API and a UUID fallback API for name resolution.*
 *   **:mag: Recursive Directory Scanning**
-> The scanner now digs deeper! Added recursive scanning for **`.minecraft/config`** and log directories to find hidden `accounts.json` and `usercache.json` files in subfolders.
+> The scanner now digs deeper!
 *   **:crossed_swords: Hytale Support**
 > Added username detection support for **Hytale** (Launcher logs and configuration files).
 ---
