@@ -1,31 +1,39 @@
 # :fire: RedLotus Alt Checker
-### :sparkles: Latest Major Update
+### The Ultimate Multi-Platform Account Discovery Tool
+
+## :sparkles: New in Update 2.0
+*   **:rocket: Massive Performance Overhaul**
+> Complete rewrite of the scanning engine. Now utilizes **Memory Mapping** and **Single-Pass Search** for blazing fast execution with minimal RAM usage.
+*   **:floppy_disk: Multi-Drive Scanning (A-Z)**
+> The tool now scans **ALL fixed drives** connected to the system. This includes both the instant **MFT Scan** and **USN Journal Forensics**.
+*   **:mag: Recursive Directory & MFT Integration**
+> Directly parses the **Master File Table (MFT)** for instant results across all drives, while maintaining deep recursive scanning for complex folder structures.
 *   **:busts_in_silhouette: Massive Client Support**
-> Added detection for **Lunar, Badlion, Feather, Meteor, Wurst, Aristois, Impact, LabyMod, LiquidBounce, Sigma, Prism, Modrinth, ATLauncher, Technic, SKlauncher, PolyMC, CurseForge, MultiMC**, and more.
+> Added detection for **Lunar, Badlion, Feather, Meteor, Wurst, Aristois, Impact, LabyMod, LiquidBounce, Prism, Modrinth, ATLauncher, Technic, SKlauncher, PolyMC, CurseForge, MultiMC**, and many others.
+*   **:mouse_three_button: Right-Click Actions**
+> You can now **Right-Click** on any found account to copy the **Username** or **Discord ID** directly to your clipboard.
 *   **:id: UUID Auto-Resolver**
-> Implemented a smart **UUID Resolver**. The tool automatically fetches real usernames from Mojang's API for any UUIDs found in logs or config files.
-> *Note: This means the tool is no longer 100% offline. It connects to Mojang's API and a UUID fallback API for name resolution.*
-*   **:mag: Recursive Directory Scanning**
-> The scanner now digs deeper!
-*   **:crossed_swords: Hytale Support**
-> Added username detection support for **Hytale** (Launcher logs and configuration files).
+> Checks are no longer just offline! The tool automatically fetches real usernames from **Mojang's API** for any UUIDs found in logs or config files.
+
 ---
+
 ### :gear: Core Features
 *   **:zap: Universal Account Scanner**
-> Automatically extracts accounts from **Minecraft, Steam, Discord, Hytale, and Windows Users**.
+> Extracts accounts from **Minecraft** (Java & Launchers), **Steam**, **Discord**, **Hytale**, and **Windows System Users**.
 *   **:mag: Smart "Fuzzy" Target Search**
 > Uses an intelligent algorithm to find username variations (`TheGamer` / `Th3_G4m3r_01`) and typos that standard searches might miss.
 *   **:floppy_disk: Advanced Forensics (USN Journal)**
 > Retrieves a detailed history of **deleted and modified Minecraft-related files** over the last 14 days, exposing potential cleaning attempts.
-### :chart_with_upwards_trend: Performance & Design
-*   **:rocket: Deep & Fast:** Scans gigabytes of data in just a few seconds.
-*   **:broom: Smart Cleanup:** Automatically filters noise and duplicates, giving you a clean, easy-to-read report sorted by platform.
-*   **:bug: Stability:** Fixed minor bugs and glitches reported on specific PC configurations.
+*   **:crossed_swords: Hytale Support**
+> Added username detection support for **Hytale** (Launcher logs and configuration files).
+
 ### :shield: Privacy & Security
-*   **:lock: Privacy First:** No data, logs, or results are ever sent to external servers **(except Mojang API/Fallback for UUID resolution)**.
+*   **:lock: Privacy First:** No data, logs, or results are ever sent to external servers **(except Mojang API/Fallback for UUID resolution)**. All processing happens locally.
 *   **:briefcase: Public Data Only:** We only extract **public display names**. Sensitive data like passwords, emails, or session tokens are **never** accessed or displayed.
 *   **:handshake: Ethical Design:** Automated scanning removes the need for manual digging through personal user folders, protecting everyone's privacy.
+
 ### :construction: Roadmap
 *   **:bricks: Bedrock Edition Support**
-> Planning to implement support for **Minecraft Bedrock** in the near future!
+> Also planned: Support for **Minecraft Bedrock** is coming soon!
+
 **Download Tool:** https://github.com/ItzIceHere/RedLotusAltChecker/releases/download/RL/RedLotusAltChecker.exe
