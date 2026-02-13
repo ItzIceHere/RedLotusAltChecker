@@ -1,5 +1,4 @@
 # :fire: RedLotus Alt Checker
-### The Ultimate Multi-Platform Account Discovery Tool
 
 ## :sparkles: New in Update 2.0
 *   **:rocket: Massive Performance Overhaul**
@@ -10,8 +9,6 @@
 > Directly parses the **Master File Table (MFT)** for instant results across all drives, while maintaining deep recursive scanning for complex folder structures.
 *   **:busts_in_silhouette: Massive Client Support**
 > Added detection for **Lunar, Badlion, Feather, Meteor, Wurst, Aristois, Impact, LabyMod, LiquidBounce, Prism, Modrinth, ATLauncher, Technic, SKlauncher, PolyMC, CurseForge, MultiMC**, and many others.
-*   **:mouse_three_button: Right-Click Actions**
-> You can now **Right-Click** on any found account to copy the **Username** or **Discord ID** directly to your clipboard.
 *   **:id: UUID Auto-Resolver**
 > Checks are no longer just offline! The tool automatically fetches real usernames from **Mojang's API** for any UUIDs found in logs or config files.
 
