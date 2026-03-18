@@ -29,8 +29,4 @@
 *   **:briefcase: Public Data Only:** We only extract **public display names**. Sensitive data like passwords, emails, or session tokens are **never** accessed or displayed.
 *   **:handshake: Ethical Design:** Automated scanning removes the need for manual digging through personal user folders, protecting everyone's privacy.
 
-### :construction: Roadmap
-*   **:bricks: Bedrock Edition Support**
-> Also planned: Support for **Minecraft Bedrock** is coming soon!
-
 **Download Tool:** https://github.com/ItzIceHere/RedLotusAltChecker/releases/download/RL/RedLotusAltChecker.exe
